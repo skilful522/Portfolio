@@ -1,0 +1,128 @@
+/* Background color */
+.bg-danger {
+    background: red;
+}
+
+.bg-success {
+    background: green;
+}
+
+.bg-warning {
+    background: yellow;
+}
+
+.bg-black {
+    background: black;
+}
+
+/* Text color */
+.text-white {
+    color: white;
+}
+
+.text-danger {
+    color: red;
+}
+
+.text-success {
+    color: green;
+}
+
+.text-warning {
+    color: yellow;
+}
+
+.text-black {
+    color: black;
+}
+
+/*Font Size*/
+
+.fontSize-sm {
+    font-size: 1rem;
+}
+
+.fontSize-default {
+    font-size: 2rem;
+}
+
+.fontSize-lg {
+    font-size: 3rem;
+}
+
+.fontSize-extraLg {
+    font-size: 4rem;
+}
+
+.fontSize-giant {
+    font-size: 5rem;
+}
+
+/*Font weight*/
+
+.fontWeight-bold {
+    font-weight: bold;
+}
+
+/* Borders */
+
+.border {
+    border: 1px solid;
+}
+
+.border-bottom {
+    border-bottom: 1px solid;
+}
+
+.border-top {
+    border-top: 1px solid;
+}
+
+.border-right {
+    border-right: 1px solid;
+}
+.border-left {
+    border-left: 1px solid;
+}
+
+/* Borders color */
+
+.border-danger {
+    border-color: red;
+}
+
+.border-success {
+    border-color: green;
+}
+
+.border-warning {
+    border-color: yellow;
+}
+
+.border-white {
+    border-color: white;
+}
+
+/* Spacing */
+.p-0 {
+    padding: 0;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.flex-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+

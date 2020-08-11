@@ -1,0 +1,36 @@
+.wrapper {
+    padding: 10px;
+}
+
+.titleWrapper {
+    padding-bottom: 10px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.content-block-avatar {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 220px;
+    margin: 5px;
+}
+
+.content-block-biography-text-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 5px;
+    margin-left: 20px;
+    white-space: pre;
+}
+
+.content-block-biography-text {
+    /*padding-bottom: 2rem;*/
+}
+
+.avatar {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
